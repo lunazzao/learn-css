@@ -7,7 +7,14 @@ body {
     text-align: center;
   }
 
-  p {
+  p.main {
+    color: red;
+    font-size: 3em;
+    font-style: italic;
+  }
+
+  p.sub {
+    color: green;
     font-size: 3em;
     font-style: italic;
   }
